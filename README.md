@@ -24,7 +24,7 @@ This repo includes a number of defaults for the respec template. See ```respecCo
 
 ## ✍️ Working with this template
 
-Please see the [respec documentation](https://respec.org/docs/#sections) for an in-depth explaniation of all possible options for writing your 
+Please see the [respec documentation](https://respec.org/docs/#sections) for an in-depth explanation of all possible options for writing your 
 proposal. However, a good base can be established by expanding your abstraction definition and including new sections for your proposal.
 Some examples are already included in ```index.html```. 
 
@@ -42,7 +42,7 @@ Feel free to check the issue page.
 
 ## 🏷️ Licence
 
-© 2022 [Open Credentialing Initiative](https://www.oc-i.org/)
+© 2022 Named editors. Contributors to the [Open Credentialing Initiative](https://www.oc-i.org/).
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
