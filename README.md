@@ -28,30 +28,42 @@ Please see the [respec documentation](https://respec.org/docs/#sections) for an 
 proposal. However, a good base can be established by expanding your abstraction definition and including new sections for your proposal.
 Some examples are already included in ```index.html```. 
 
-
 ## 📖 Github Pages
 
 When you update the ```main``` branch of your proposal repository, the resulting content will automatically published to a github page that you can share. Using the default configuration your page should be accessible at:
 
 ```https://<user>.github.io/<repository>```
 
+---
+Keep the content below within each repo.
+---
+
+## 🔗 Web version of this Repo
+Go to [Enter repo name and adjust link](https://github.com/Open-Credentialing-Initiative)
+
 ## 🤝 Contributing
 
-Contributions, issue and pull-requests are welcome!
-Feel free to check the issue page.
+OCI encourages contributions from OCI member and non-member companies and individuals. 
+Please send issues and pull requests by following our processes and agreements. Feel free to check the issues page.
+
+**By contributing, companies and individuals certify the assertions made in the [Developer's Certificate of Origin](https://developercertificate.org/).**
 
 ## 🏷️ Licence
 
-© 2022 Named editors. Contributors to the [Open Credentialing Initiative](https://www.oc-i.org/).
+By submitting their contribution to OCI, the contributor certifies that they have the right to submit it under the open source license indicated here.
+
+**This project is [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)-licensed.**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
-    http://www.apache.org/licenses/LICENSE-2.0
+   [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
-Unless required by applicable law or agreed to in writing, software
+Unless required by applicable law or agreed to in writing, material
 distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+Copyright © 2022 Named editors. Contributors to [OCI](https://www.oc-i.org/).
