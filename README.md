@@ -34,6 +34,8 @@ When you update the ```main``` branch of your proposal repository, the resulting
 
 ```https://<user>.github.io/<repository>```
 
+To activate this feature navigate to Settings > Pages > Source: select Branch 'gh-pages'
+
 ---
 Keep the content below within each repo.
 ---
